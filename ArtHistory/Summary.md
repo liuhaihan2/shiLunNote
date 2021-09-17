@@ -1,8 +1,8 @@
 
 - ## [中国工艺美术史](/ArtHistory/ZhArtHistory.md)
-	- ### [原始社会](#原始社会)
-	- ### [夏商西周](#夏商西周)
-	- ### [春秋战国](#春秋战国)
+	- ### [原始社会](/ArtHistory/ZhArtHistory/PrimitiveSociety/PrimitiveSociety.md)
+	- ### [夏商西周](/ArtHistory/ZhArtHistory/XiaShangZhouDynasties/XiaShangZhouDynasties.md)
+	- ### [春秋战国](/ArtHistory/ZhArtHistory/Spring&AutumnPeriod/Spring&AutumnPeriod.md)
 	- ### [秦汉工艺美术](#秦汉工艺美术)
 	- ### [魏晋南北朝工艺美术](#魏晋南北朝工艺美术)
 	- ### [隋唐五代工艺美术](#隋唐五代工艺美术)
