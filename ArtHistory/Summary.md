@@ -4,12 +4,12 @@
 	- ### [夏商西周](/ArtHistory/ZhArtHistory/XiaShangZhouDynasties/XiaShangZhouDynasties.md)
 	- ### [春秋战国](/ArtHistory/ZhArtHistory/Spring&AutumnPeriod/Spring&AutumnPeriod.md)
 	- ### [秦汉工艺美术](/ArtHistory/ZhArtHistory/QinHanDynasty/QinHanDynasty.md)
-	- ### [魏晋南北朝工艺美术](#魏晋南北朝工艺美术)
-	- ### [隋唐五代工艺美术](#隋唐五代工艺美术)
-	- ### [辽宋夏金工艺美术](#辽宋夏金工艺美术)
-	- ### [元代工艺美术](#元代工艺美术)	
-	- ### [明代工艺美术](#明代工艺美术)
-	- ### [清代工艺美术](#清代工艺美术)
+	- ### [魏晋南北朝工艺美术](/ArtHistory/ZhArtHistory/QinHanDynasty/QinHanDynasty.md)
+	- ### [隋唐五代工艺美术](/ArtHistory/ZhArtHistory/)
+	- ### [辽宋夏金工艺美术](/ArtHistory/ZhArtHistory/)
+	- ### [元代工艺美术](/ArtHistory/ZhArtHistory/)	
+	- ### [明代工艺美术](/ArtHistory/ZhArtHistory/)
+	- ### [清代工艺美术](/ArtHistory/ZhArtHistory/)
 	
 - ## [外国工艺美术史](/ArtHistory/EuArtHistory.md)
 - ## [世界现代设计史](/ArtHistory/DesignHistory.md)
@@ -21,7 +21,7 @@
 > 以烧造`素面白瓷`著名。分粗白瓷(施化妆土，釉色灰白乳白，常施釉不满)和细白瓷(器型周正，胎质紧实，器体莹润，胎色洁白，釉质细腻)两种 “天下无贵贱而通用之”
 > 邢窑以底刻“翰林” “盈” 字款的白瓷最为著名，中国已知最早的薄胎瓷就发现在此
 
-> 金银平脱
+> 金银平脱 是对两汉贴金箔的弘扬
 > 将漆与金属镶嵌相合 高档装修方式(always装饰漆器铜镜瓷) 对两汉贴金箔的弘扬较多适用于漆器，铜镜也有时候用
 > 做法: 金银片(剪刻成花纹)paste漆地上 -> 拼成图案 -> 涂漆研磨使之与漆地相平
 > 特点：色彩强烈 富丽华美 
