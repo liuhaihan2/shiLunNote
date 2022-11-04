@@ -47,3 +47,8 @@
 > - Much of Confucian thought on Heaven and people represents universal human values, This is perhaps why Confucian thought in the 21st century still remains the interest of not only the Chinese people but also in other parts of the world
 
 ### 9. 求职求学请求信
+
+### 请求信 数学太难了 我要换门课程
+> - I am an overseas student from China majoring in civil engineering. This semester I have to take ten courses, but I find that the math is so difficult for me. Therefor I am writing to you to require if I can choose another course instead of it.
+> - At the beginning of the semester, after getting my math textbook, I was surprised to find that there were many terms and theories that I didn't down. Besides I can hardly follow what the teacher says in class and also don't know how to take notes. All of these really make me feel frustrated and depressed.
+> - I hope you can kindly take into consideration my request. Please respond at you earlist convenience. I would very appreciated if you could approve my request.
