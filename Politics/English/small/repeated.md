@@ -48,7 +48,12 @@
 
 ### 9. 求职求学请求信
 
-### 请求信 数学太难了 我要换门课程
+### 9.请求信 数学太难了 我要换门课程
 > - I am an overseas student from China majoring in civil engineering. This semester I have to take ten courses, but I find that the math is so difficult for me. Therefor I am writing to you to require if I can choose another course instead of it.
 > - At the beginning of the semester, after getting my math textbook, I was surprised to find that there were many terms and theories that I didn't down. Besides I can hardly follow what the teacher says in class and also don't know how to take notes. All of these really make me feel frustrated and depressed.
 > - I hope you can kindly take into consideration my request. Please respond at you earlist convenience. I would very appreciated if you could approve my request.
+
+### 10.祝贺信  朋友得到了博士学位 祝贺他 并邀请他来玩
+> - Congratulations upon your receiving your doctorate in phlosiphy from Yale University. I know this means years of study and hard work on your part. It is an achievement you may well be proud of.
+> - I have followed with your progress with pleasure and interest for many years. So I'm sure, with your excellent track record, you will succeed in whatever you undertake. No doubt you are tired after the strain of past few mouths. What about coming to my hometown for a few weeks this summer? We will be very happy to have you here. Think it over and let me know.
+> - I'd also love to know your plans, now you have graduated.
