@@ -1,17 +1,12 @@
-### 邀请教授出席毕业典礼
-> - I am very pleased to inform you that our university is organizing a graduation ceremony.You are cordially invited to participate in this significant event as special guests.
-> - First and foremost, the ceremony is to be held at the auditorium of our university from 2 p.m. to 5 p.m. on December 23, 2017. In addition, you will be welcome to participate fully in all activities of the ceremony, including workshops, seminars, and recreational activities.
-> - We look forward to seeing you at this ceremony and to having you as important members of this event. If you accept this invitation, please advise us of your time of arrival, so that we can make necessary arrangements.
-
 ### 回复邀请  我被教授邀请出席文化节，表达谢意 + 我能给这次交流带来什么好处
 > - I am extremely honored to accept your invitation to give a presentation to a host of foreign students on Chinese culture.
-> - Here are the key points of my presentation. First of all, compared with Westerners, the Chinese people have traditionally paid more attention to the harmonious relationship between human beings and nature. "Nature and Man are one" is a familiar statement in traditional Chinese ideology. In addition, in Chinese traditional thought, much emphasis is laid upon moral cultivation, the refinement of temper, and the spiritual enlightenment on the part of individual rather than upon logical reasoning. 
+> - Here are the key points of my presentation. First of all, compared with Westerners, the Chinese people have traditionally paid more attention to the harmonious relationship between human beings and nature. "Nature and Man are one" is a familiar statement in traditional Chinese ideology. In addition, Chinese emphasis on moral cultivation, the refinement of temper, and the spiritual enlightenment on the part of individual.
 > - My appreciation to you for your invitation is beyond words. I am looking forward to hearing from you soon.
 
-### 邀请建议文  海外学生要来学习给他们意见 + 招募志愿者(帮助这些外国人)
-> - On behalf of the Students' Union of Beijing Foreign Studies University, I would like to extend our heartfelt welcome to all the overseas students who will study in our university.
-> - It is my great pleasure to offer you several practical suggestions. In the first place, life in this prestigious university is perhaps not as easy as you have expected. You may be tightly bound by daily classes, abundant homework and frequent exams. Thus, be prepared for the hectie life here. In the second place, in spite of all those burdens, various extracurricular activities such as sports meets, speech contests and social gatherings will still provide ample opportunities to make friends. So, enjoy your life in this esteemed institute!
-> - All in all, although there is a lot of pressure, the time you spend on our campus will be worthwhile and enhance your whole life. Hope you like it here! 
+### 8. 介绍孔子 介绍信
+> - I am writing the email to introduce one of the most prestigious Chinese celebrities to you. Confucius.
+> - Being a great thinker, educator and founder of Confucianism, Confucins is an ancient sage during the Spring and Autumn Period. His words and life story were recorded by his disciples and their students in The Analects. As an enduring classic of ancient Chinese culture. The Analects has influenced all thinkers. writers and politicians in the over-2000. year-long history of China after Confucius. No scholar could truely understand this long- standing culture or the inner world of the ancient Chinese without this book. 
+> - Much of Confucian thought on Heaven and people represents universal human values, This is perhaps why Confucian thought in the 21st century still remains the interest of not only the Chinese people but also in other parts of the world
 
 ### notice  一个由学生会主持的校园唱歌比赛招募参赛选手
 > - To improve international students' abilities and enrich extracurricular activities, the Student Union of our university is organizing a school-wide singing contest to be held at the Students' Recreational Center on March 1, 2020.
@@ -40,11 +35,6 @@
 > - It is my great pleasure to plan a debate on the theme of city traffic. My suggested topic is: "Private Cars--A Blessing or a Curse?"
 > - The primary reasons for my suggestion are as follows. On the one hand, some claim that there are many advantages to possessing a car. It gives a much greater degree of comfort and mobility. On the other hand, others strongly object to owning private cars. They maintain that private cars contribute to traffic congestion so greatly that the advantages gained in comfort and freedom are often cancelled out by the frustration caused by traffic jams.
 > - The debate has been arranged for December 22 in the Students' Recreational Center. I am looking forward to your reply.
-
-### 8. 介绍孔子 介绍信
-> - I am writing the email to introduce one of the most prestigious Chinese celebrities to you. Confucius.
-> - Being a great thinker, educator and founder of Confucianism, Confucins is an ancient sage during the Spring and Autumn Period. His words and life story were recorded by his disciples and their students in The Analects. As an enduring classic of ancient Chinese culture. The Analects has influenced all thinkers. writers and politicians in the over-2000. year-long history of China after Confucius. No scholar could truely understand this long- standing culture or the inner world of the ancient Chinese without this book. 
-> - Much of Confucian thought on Heaven and people represents universal human values, This is perhaps why Confucian thought in the 21st century still remains the interest of not only the Chinese people but also in other parts of the world
 
 ### 9. 求职求学请求信
 
